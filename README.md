@@ -1,0 +1,1 @@
+# sum-of-first-n-square-in-cpp
